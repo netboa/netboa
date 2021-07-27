@@ -1,0 +1,1139 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Playboy TV">
+    <display-name lang="pt">Playboy TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sextreme">
+    <display-name lang="pt">Sextreme</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Venus">
+    <display-name lang="pt">Venus</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sexy Hot">
+    <display-name lang="pt">Sexy Hot</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Playboy HD">
+    <display-name lang="pt">Playboy HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Futura">
+    <display-name lang="pt">Futura</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="pt">National Geographic</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Channel">
+    <display-name lang="pt">Discovery Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet">
+    <display-name lang="pt">Animal Planet</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="The History Channel">
+    <display-name lang="pt">The History Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo">
+    <display-name lang="pt">Discovery Turbo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science">
+    <display-name lang="pt">Discovery Science</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Natgeo Wild">
+    <display-name lang="pt">Natgeo Wild</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery HD ³">
+    <display-name lang="pt">Discovery HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Theater HD ³">
+    <display-name lang="pt">Discovery Theater HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow">
+    <display-name lang="pt">Multishow</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS">
+    <display-name lang="pt">BIS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">MTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV WA">
+    <display-name lang="pt">TV WA</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Music Box Brazil">
+    <display-name lang="pt">Music Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 ">
+    <display-name lang="pt">SporTV 3 </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2">
+    <display-name lang="pt">SporTV 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV">
+    <display-name lang="pt">SporTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil">
+    <display-name lang="pt">ESPN Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN ">
+    <display-name lang="pt">ESPN </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="pt">Fox Sports</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2">
+    <display-name lang="pt">FOX Sports 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports">
+    <display-name lang="pt">Band Sports</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Brasil">
+    <display-name lang="pt">Canal Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="pt">TNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix">
+    <display-name lang="pt">Megapix</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Space">
+    <display-name lang="pt">Space</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax">
+    <display-name lang="pt">Cinemax</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil">
+    <display-name lang="pt">Prime Box Brazil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal">
+    <display-name lang="pt">Studio Universal</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramount Network">
+    <display-name lang="pt">Paramount Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="pt">TCM</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="pt">HBO</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO 2">
+    <display-name lang="pt">HBO 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO +">
+    <display-name lang="pt">HBO +</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family">
+    <display-name lang="pt">HBO Family</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature">
+    <display-name lang="pt">HBO Signature</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Hbo Pop">
+    <display-name lang="pt">Hbo Pop</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Hbo Mundi">
+    <display-name lang="pt">Hbo Mundi</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="hBO Xtreme">
+    <display-name lang="pt">hBO Xtreme</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD ³">
+    <display-name lang="pt">HBO HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO HD 2 ³">
+    <display-name lang="pt">HBO HD 2 ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Futura HD">
+    <display-name lang="pt">Futura HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 3 HD ³">
+    <display-name lang="pt">SporTV 3 HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV 2 HD ³">
+    <display-name lang="pt">SporTV 2 HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SporTV HD ³">
+    <display-name lang="pt">SporTV HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Multishow HD ³">
+    <display-name lang="pt">Multishow HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Brasil HD ³">
+    <display-name lang="pt">ESPN Brasil HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN HD ³">
+    <display-name lang="pt">ESPN HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN 2 HD">
+    <display-name lang="pt">ESPN 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Sports HD ³">
+    <display-name lang="pt">Fox Sports HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX Sports 2 HD ³">
+    <display-name lang="pt">FOX Sports 2 HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band Sports HD ³">
+    <display-name lang="pt">Band Sports HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="National Geographic HD ³">
+    <display-name lang="pt">National Geographic HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Animal Planet HD">
+    <display-name lang="pt">Animal Planet HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="The History Channel HD ³">
+    <display-name lang="pt">The History Channel HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Turbo HD ³">
+    <display-name lang="pt">Discovery Turbo HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Science HD ³">
+    <display-name lang="pt">Discovery Science HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NATGEO WILD HD ³">
+    <display-name lang="pt">NATGEO WILD HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery world HD ³">
+    <display-name lang="pt">Discovery world HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="History 2 HD">
+    <display-name lang="pt">History 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BIS HD ³">
+    <display-name lang="pt">BIS HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV HD ³">
+    <display-name lang="pt">MTV HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Music Box Brazil HD ³">
+    <display-name lang="pt">Music Box Brazil HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="VH1 HD ³">
+    <display-name lang="pt">VH1 HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT HD ³">
+    <display-name lang="pt">TNT HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Megapix HD ³">
+    <display-name lang="pt">Megapix HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Space HD ³">
+    <display-name lang="pt">Space HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cinemax HD ³">
+    <display-name lang="pt">Cinemax HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Prime Box Brazil HD ³">
+    <display-name lang="pt">Prime Box Brazil HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Studio Universal HD">
+    <display-name lang="pt">Studio Universal HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Paramount Network HD">
+    <display-name lang="pt">Paramount Network HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO + HD">
+    <display-name lang="pt">HBO + HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Family HD ³">
+    <display-name lang="pt">HBO Family HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Signature HD ³">
+    <display-name lang="pt">HBO Signature HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO POP HD">
+    <display-name lang="pt">HBO POP HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO MUNDI HD">
+    <display-name lang="pt">HBO MUNDI HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HBO Xtreme HD">
+    <display-name lang="pt">HBO Xtreme HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids">
+    <display-name lang="pt">Discovery Kids</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gloob">
+    <display-name lang="pt">Gloob</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="pt">Disney Channel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="pt">Nickelodeon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon Network">
+    <display-name lang="pt">Cartoon Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney XD">
+    <display-name lang="pt">Disney XD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney JR">
+    <display-name lang="pt">Disney JR</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nick Jr.">
+    <display-name lang="pt">Nick Jr.</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang">
+    <display-name lang="pt">Boomerang</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Rá Tim Bum">
+    <display-name lang="pt">TV Rá Tim Bum</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tooncast">
+    <display-name lang="pt">Tooncast</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Baby Tv">
+    <display-name lang="pt">Baby Tv</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ZooMoo">
+    <display-name lang="pt">ZooMoo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Kids HD ³">
+    <display-name lang="pt">Discovery Kids HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gloob HD ³">
+    <display-name lang="pt">Gloob HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney Channel HD ³">
+    <display-name lang="pt">Disney Channel HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nickelodeon HD">
+    <display-name lang="pt">Nickelodeon HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cartoon HD ³">
+    <display-name lang="pt">Cartoon HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Nick Jr HD ³">
+    <display-name lang="pt">Nick Jr HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boomerang HD ³">
+    <display-name lang="pt">Boomerang HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Rá Tim Bum HD ³">
+    <display-name lang="pt">TV Rá Tim Bum HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NatGeo Kids HD">
+    <display-name lang="pt">NatGeo Kids HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ZooMoo HD">
+    <display-name lang="pt">ZooMoo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Interativo">
+    <display-name lang="pt">Premiere Interativo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal de Vendas NET">
+    <display-name lang="pt">Canal de Vendas NET</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Climatempo">
+    <display-name lang="pt">TV Climatempo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Jogos Interativos Cartoon">
+    <display-name lang="pt">Jogos Interativos Cartoon</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Portal NET Interativa">
+    <display-name lang="pt">Portal NET Interativa</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CNN International">
+    <display-name lang="pt">CNN International</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Bloomberg TV">
+    <display-name lang="pt">Bloomberg TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="BBC World News">
+    <display-name lang="pt">BBC World News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RAI International">
+    <display-name lang="pt">RAI International</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV5 Monde">
+    <display-name lang="pt">TV5 Monde</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TVE International">
+    <display-name lang="pt">TVE International</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DW-TV">
+    <display-name lang="pt">DW-TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NHK World Premium">
+    <display-name lang="pt">NHK World Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SIC International">
+    <display-name lang="pt">SIC International</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Korea">
+    <display-name lang="pt">TV Korea</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal 2">
+    <display-name lang="pt">Canal 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NET TV">
+    <display-name lang="pt">NET TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NET TV HD ³">
+    <display-name lang="pt">NET TV HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GloboNews">
+    <display-name lang="pt">GloboNews</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CNN Brasil">
+    <display-name lang="pt">CNN Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record News ">
+    <display-name lang="pt">Record News </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News">
+    <display-name lang="pt">Band News</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Agro Mais">
+    <display-name lang="pt">Agro Mais</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GloboNews HD ³">
+    <display-name lang="pt">GloboNews HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CNN Brasil HD">
+    <display-name lang="pt">CNN Brasil HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band News HD">
+    <display-name lang="pt">Band News HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Agro Mais HD ">
+    <display-name lang="pt">Agro Mais HD </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="NOW">
+    <display-name lang="pt">NOW</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Câmara">
+    <display-name lang="pt">TV Câmara</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Brasil">
+    <display-name lang="pt">TV Brasil</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id=" TV Brasil 2">
+    <display-name lang="pt"> TV Brasil 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Justiça">
+    <display-name lang="pt">TV Justiça</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Legislativo">
+    <display-name lang="pt">Canal Legislativo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Escola">
+    <display-name lang="pt">TV Escola</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Senado">
+    <display-name lang="pt">TV Senado</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Universitário">
+    <display-name lang="pt">Canal Universitário</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes">
+    <display-name lang="pt">Premiere Clubes</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 2">
+    <display-name lang="pt">Premiere 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 3">
+    <display-name lang="pt">Premiere 3</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 4">
+    <display-name lang="pt">Premiere 4</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 5">
+    <display-name lang="pt">Premiere 5</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 6">
+    <display-name lang="pt">Premiere 6</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere 7">
+    <display-name lang="pt">Premiere 7</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mosaico Multijogos">
+    <display-name lang="pt">Mosaico Multijogos</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate">
+    <display-name lang="pt">Combate</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere Clubes HD">
+    <display-name lang="pt">Premiere Clubes HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere HD 2">
+    <display-name lang="pt">Premiere HD 2</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE HD 3 ³">
+    <display-name lang="pt">PREMIERE HD 3 ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE HD 4 ³">
+    <display-name lang="pt">PREMIERE HD 4 ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="PREMIERE HD 5 ³">
+    <display-name lang="pt">PREMIERE HD 5 ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere HD 6">
+    <display-name lang="pt">Premiere HD 6</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Premiere HD 7">
+    <display-name lang="pt">Premiere HD 7</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Combate HD">
+    <display-name lang="pt">Combate HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Universal TV">
+    <display-name lang="pt">Universal TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="pt">Fox</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner">
+    <display-name lang="pt">Warner</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony">
+    <display-name lang="pt">Sony</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="pt">FX</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">AXN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TBS">
+    <display-name lang="pt">TBS</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="pt">Comedy Central</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A&amp;E">
+    <display-name lang="pt">A&amp;E</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ID">
+    <display-name lang="pt">ID</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Syfy">
+    <display-name lang="pt">Syfy</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Lifetime">
+    <display-name lang="pt">Lifetime</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id=" Universal TV HD">
+    <display-name lang="pt"> Universal TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX HD ³">
+    <display-name lang="pt">FOX HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Warner HD ³">
+    <display-name lang="pt">Warner HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Sony HD ³">
+    <display-name lang="pt">Sony HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FX HD ³">
+    <display-name lang="pt">FX HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AXN HD ³">
+    <display-name lang="pt">AXN HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TBS HD ³">
+    <display-name lang="pt">TBS HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Comedy Central HD">
+    <display-name lang="pt">Comedy Central HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="A&amp;E HD">
+    <display-name lang="pt">A&amp;E HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ID HD ³">
+    <display-name lang="pt">ID HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Syfy HD">
+    <display-name lang="pt">Syfy HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Lifetime HD">
+    <display-name lang="pt">Lifetime HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TNT SÉRIES HD">
+    <display-name lang="pt">TNT SÉRIES HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Premium 1 HD">
+    <display-name lang="pt">Fox Premium 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Premium 2 HD">
+    <display-name lang="pt">Fox Premium 2 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium">
+    <display-name lang="pt">Telecine Premium</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action">
+    <display-name lang="pt">Telecine Action</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch">
+    <display-name lang="pt">Telecine Touch</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun">
+    <display-name lang="pt">Telecine Fun</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca">
+    <display-name lang="pt">Telecine Pipoca</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult">
+    <display-name lang="pt">Telecine Cult</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Premium HD ³">
+    <display-name lang="pt">Telecine Premium HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Action HD ³">
+    <display-name lang="pt">Telecine Action HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Touch HD ³">
+    <display-name lang="pt">Telecine Touch HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Fun HD ³">
+    <display-name lang="pt">Telecine Fun HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Pipoca HD ³">
+    <display-name lang="pt">Telecine Pipoca HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Telecine Cult HD ³">
+    <display-name lang="pt">Telecine Cult HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Off">
+    <display-name lang="pt">Off</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT">
+    <display-name lang="pt">GNT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Viva">
+    <display-name lang="pt">Viva</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mais Globosat ">
+    <display-name lang="pt">Mais Globosat </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E! ">
+    <display-name lang="pt">E! </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="pt">TLC</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Arte 1">
+    <display-name lang="pt">Arte 1</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Food Network">
+    <display-name lang="pt">Food Network</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health">
+    <display-name lang="pt">Discovery Home &amp; Health</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Curta!">
+    <display-name lang="pt">Curta!</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FISH TV">
+    <display-name lang="pt">FISH TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HGTV">
+    <display-name lang="pt">HGTV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Woohoo">
+    <display-name lang="pt">Woohoo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="pt">Fox Life</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Off HD ³">
+    <display-name lang="pt">Off HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="GNT HD ³">
+    <display-name lang="pt">GNT HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Viva HD">
+    <display-name lang="pt">Viva HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mais Globosat HD ³">
+    <display-name lang="pt">Mais Globosat HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="E! HD">
+    <display-name lang="pt">E! HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TLC HD ³">
+    <display-name lang="pt">TLC HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Arte 1 HD">
+    <display-name lang="pt">Arte 1 HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="pt">FOOD NETWORK HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Discovery Home &amp; Health HD ³">
+    <display-name lang="pt">Discovery Home &amp; Health HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Curta! HD">
+    <display-name lang="pt">Curta! HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="DogTV HD">
+    <display-name lang="pt">DogTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="HGTV HD">
+    <display-name lang="pt">HGTV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FOX LIFE HD">
+    <display-name lang="pt">FOX LIFE HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="RIT TV">
+    <display-name lang="pt">RIT TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Pai Eterno">
+    <display-name lang="pt">TV Pai Eterno</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura">
+    <display-name lang="pt">Cultura</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT">
+    <display-name lang="pt">SBT</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo">
+    <display-name lang="pt">Globo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record">
+    <display-name lang="pt">Record</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV">
+    <display-name lang="pt">Rede TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gazeta">
+    <display-name lang="pt">Gazeta</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band">
+    <display-name lang="pt">Band</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mega TV">
+    <display-name lang="pt">Mega TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede 21">
+    <display-name lang="pt">Rede 21</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Ideal TV">
+    <display-name lang="pt">Ideal TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Gospel">
+    <display-name lang="pt">Rede Gospel</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Polishop">
+    <display-name lang="pt">Polishop</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Shoptime">
+    <display-name lang="pt">Shoptime</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">AMC</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Film&amp;Arts">
+    <display-name lang="pt">Film&amp;Arts</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Terra Viva">
+    <display-name lang="pt">Terra Viva</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Novo Tempo">
+    <display-name lang="pt">Novo Tempo</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Rural">
+    <display-name lang="pt">Canal Rural</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SNB">
+    <display-name lang="pt">SNB</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal do Boi">
+    <display-name lang="pt">Canal do Boi</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Vida">
+    <display-name lang="pt">Rede Vida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Canção Nova">
+    <display-name lang="pt">TV Canção Nova</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Aparecida">
+    <display-name lang="pt">TV Aparecida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Boa Vontade TV">
+    <display-name lang="pt">Boa Vontade TV</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="CGTN">
+    <display-name lang="pt">CGTN</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Globo HD">
+    <display-name lang="pt">Globo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Band HD">
+    <display-name lang="pt">Band HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede TV HD">
+    <display-name lang="pt">Rede TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="SBT HD">
+    <display-name lang="pt">SBT HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Cultura HD">
+    <display-name lang="pt">Cultura HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Record HD">
+    <display-name lang="pt">Record HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Gazeta HD">
+    <display-name lang="pt">Gazeta HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Mega TV HD">
+    <display-name lang="pt">Mega TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Gospel HD">
+    <display-name lang="pt">Rede Gospel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Like HD">
+    <display-name lang="pt">Like HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Fashion TV HD">
+    <display-name lang="pt">Fashion TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Travel Box Brasil HD ">
+    <display-name lang="pt">Travel Box Brasil HD </display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="FISH TV HD">
+    <display-name lang="pt">FISH TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Woohoo HD">
+    <display-name lang="pt">Woohoo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="ESPN Extra HD">
+    <display-name lang="pt">ESPN Extra HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Love Nature HD">
+    <display-name lang="pt">Love Nature HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Smithsonian HD">
+    <display-name lang="pt">Smithsonian HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Disney JR HD">
+    <display-name lang="pt">Disney JR HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Trace Brazuca HD">
+    <display-name lang="pt">Trace Brazuca HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="MTV Live HD">
+    <display-name lang="pt">MTV Live HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="AMC HD">
+    <display-name lang="pt">AMC HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Eurochannel HD">
+    <display-name lang="pt">Eurochannel HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Film&amp;Arts HD">
+    <display-name lang="pt">Film&amp;Arts HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Brasil HD ³">
+    <display-name lang="pt">Canal Brasil HD ³</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Novo Tempo HD">
+    <display-name lang="pt">Novo Tempo HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id=" TV Pai Eterno HD">
+    <display-name lang="pt"> TV Pai Eterno HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Rede Vida HD">
+    <display-name lang="pt">Rede Vida HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Tv Aparecida">
+    <display-name lang="pt">Tv Aparecida</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="LBV (Espelho)">
+    <display-name lang="pt">LBV (Espelho)</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Canal Comunitário">
+    <display-name lang="pt">Canal Comunitário</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="Ideal TV HD">
+    <display-name lang="pt">Ideal TV HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+  <channel id="TV Brasil HD">
+    <display-name lang="pt">TV Brasil HD</display-name>
+    <url>http://www.netcombo.com.br</url>
+  </channel>
+</tv>
